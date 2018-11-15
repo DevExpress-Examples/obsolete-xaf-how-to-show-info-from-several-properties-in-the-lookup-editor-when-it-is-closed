@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/WinWebSolution.Module/Customer.cs) (VB: [Customer.vb](./VB/WinWebSolution.Module/Customer.vb))
+* [Order.cs](./CS/WinWebSolution.Module/Order.cs) (VB: [Order.vb](./VB/WinWebSolution.Module/Order.vb))
+<!-- default file list end -->
 # OBSOLETE - How to show info from several properties in the lookup editor when it is closed
 
 
